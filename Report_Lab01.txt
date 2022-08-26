@@ -1,0 +1,12 @@
+Lab: ML-Lab 01
+Name: Shayan Bakht
+Roll-number: 20I-1753
+Section: AI-K
+
+Results: 
+Accuracy of KFolds (manual) : 0.87
+Accuracy of KFolds (SKlearn): 0.89
+
+Conclusion:
+By lienent comparison, we can conclude that both of the experiments have the same accuracies, but in a strict view, we would
+conclude that SK-learn is better by almost 0.03. Several reasons such as data distribution, etc can make a difference. 
